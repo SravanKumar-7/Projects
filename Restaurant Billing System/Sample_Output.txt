@@ -1,0 +1,93 @@
+Sample Bill 1:
+
+Welcome to Hi Restaurant.
+Please login to continue.....
+Enter username: admin
+Enter password: hi@123
+Login successful!
+Access granted.
+
+Choose your meal plan:
+1. Breakfast
+2. Lunch
+3. Dinner
+1
+
+Menu:
+1. Idly - 50/-
+2. Dosa - 60/-
+3. Woda - 70/-
+4. Bonda - 60/-
+5. Puri - 70/-
+6. Tea/Coffee - 30/-
+
+Enter item no to order: 5
+Enter quantity: 2
+Add more to your order? (1 for yes/ 0 for no): 1
+Enter item no to order: 6
+Enter quantity: 2
+Add more to your order? (1 for yes/ 0 for no): 0
+Generating your BILL...
+
+BILL Generated
+===============================
+Item Quantity Price
+-------------------------------
+Puri 2 140/-
+Tea/Coffee 2 60/-
+-------------------------------
+Sum total : 200/-
+CGST 5% : 10.00/-
+SGST 5% : 10.00/-
+Total Bill : 220.00/-
+===============================
+
+
+
+Sample Bill 2
+
+Welcome to Hi Restaurant.
+Please login to continue.....
+Enter username: admin
+Enter password: hi@123
+Login successful!
+Access granted.
+
+Choose your meal plan:
+1. Breakfast
+2. Lunch
+3. Dinner
+3
+
+Menu:
+1. Chicken Biryani - 230/-
+2. Mutton Biryani - 300/-
+3. Chicken Curry - 300/-
+4. Paneer Curry - 250/-
+5. Roti/Chapati - 20/-
+6. Soup - 120/-
+
+Enter item no to order: 1
+Enter quantity: 4
+Add more to your order? (1 for yes/ 0 for no): 1
+Enter item no to order: 3
+Enter quantity: 4
+Add more to your order? (1 for yes/ 0 for no): 1
+Enter item no to order: 5
+Enter quantity: 8
+Add more to your order? (1 for yes/ 0 for no): 0
+Generating your BILL...
+
+BILL Generated
+===============================
+Item Quantity Price
+-------------------------------
+Chicken Biryani 4 920/-
+Chicken Curry 4 1200/-
+Roti/Chapati 8 160/-
+-------------------------------
+Sum total : 2280/-
+CGST 5% : 114.00/-
+SGST 5% : 114.00/-
+Total Bill : 2508.00/-
+===============================

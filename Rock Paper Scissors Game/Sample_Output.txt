@@ -1,0 +1,112 @@
+Game of 1 round:
+
+Choose 1.rock 2.paper 3.scissors 1
+Congratulations! You have won.
+ 
+Do you want to play again? (y/n): y
+Choose 1.rock 2.paper 3.scissors 2
+It's a draw!
+ 
+Do you want to play again? (y/n): y
+Choose 1.rock 2.paper 3.scissors 1
+It's a draw!
+ 
+Do you want to play again? (y/n): y
+Choose 1.rock 2.paper 3.scissors 3
+Congratulations! You have won.
+ 
+Do you want to play again? (y/n): n
+
+
+
+Game of 10 rounds - 1:
+
+Choose 1.rock 2.paper 3.scissors 1
++1 for you.
+Choose 1.rock 2.paper 3.scissors 2
++1 for computer.
+Choose 1.rock 2.paper 3.scissors 5
+Invalid input! Please enter 1, 2, or 3 only.
+Choose 1.rock 2.paper 3.scissors 2
++1 for computer.
+Choose 1.rock 2.paper 3.scissors 1
+It's a draw!
+Choose 1.rock 2.paper 3.scissors 3
++1 for computer.
+Choose 1.rock 2.paper 3.scissors 3
++1 for computer.
+Choose 1.rock 2.paper 3.scissors 2
+It's a draw!
+Choose 1.rock 2.paper 3.scissors 1
++1 for computer.
+Choose 1.rock 2.paper 3.scissors 1
+It's a draw!
+Choose 1.rock 2.paper 3.scissors 2
+It's a draw!
+Total points are:
+You: 1
+Computer: 5
+Total draws: 4
+Sorry, you lost!
+Better luck next time!
+Do you want to play again? (y/n): n
+
+
+
+Game of 10 rounds - 2:
+
+Choose 1.rock 2.paper 3.scissors 1
++1 for you.
+Choose 1.rock 2.paper 3.scissors 2
++1 for computer.
+Choose 1.rock 2.paper 3.scissors 5
+Invalid input! Please enter 1, 2, or 3 only.
+Choose 1.rock 2.paper 3.scissors 2
++1 for you.
+Choose 1.rock 2.paper 3.scissors 1
+It's a draw!
+Choose 1.rock 2.paper 3.scissors 3
++1 for you.
+Choose 1.rock 2.paper 3.scissors 3
++1 for you.
+Choose 1.rock 2.paper 3.scissors 2
+It's a draw!
+Choose 1.rock 2.paper 3.scissors 1
+It's a draw!
+Choose 1.rock 2.paper 3.scissors 2
+It's a draw!
+Total points are:
+You: 5
+Computer: 3
+Total draws: 2
+congratulations! You have won.
+Do you want to play again? (y/n): y
+Choose 1.rock 2.paper 3.scissors 1
++1 for you.
+Choose 1.rock 2.paper 3.scissors 2
++1 for computer.
+Choose 1.rock 2.paper 3.scissors 5
+Invalid input! Please enter 1, 2, or 3 only.
+Choose 1.rock 2.paper 3.scissors 2
+It's a draw!
+Choose 1.rock 2.paper 3.scissors 3
+It's a draw!
+Choose 1.rock 2.paper 3.scissors 3
+It's a draw!
+Choose 1.rock 2.paper 3.scissors 3
++1 for computer.
+Choose 1.rock 2.paper 3.scissors 3
+It's a draw!
+Choose 1.rock 2.paper 3.scissors 1
+It's a draw!
+Choose 1.rock 2.paper 3.scissors 1
+It's a draw!
+Choose 1.rock 2.paper 3.scissors 2
+It's a draw!
+Total points are:
+You: 3
+Computer: 2
+Total draws: 5
+It's a draw!
+Better luck next time!
+Do you want to play again? (y/n): n

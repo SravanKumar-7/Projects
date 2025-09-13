@@ -1,0 +1,79 @@
+Game 1:
+
+Enter your guess: 90
+
+Too high!
+
+Enter your guess: 50
+
+Too high!
+
+Enter your guess: 25
+
+Too high!
+
+Enter your guess: 10
+
+Too low!
+
+Enter your guess: 15
+
+Too low!
+
+Enter your guess: 22
+
+Too high!
+
+Enter your guess: 20
+
+Too low!
+
+Enter your guess: 21
+
+Correct guess!
+
+You guessed in 8 attempts.
+
+
+
+Game 2:
+
+Enter your guess: 50
+
+Too low!
+
+Enter your guess: 90
+
+Too high!
+
+Enter your guess: 77
+
+Correct guess!
+
+You guessed in 3 attempts.
+
+
+
+Game 3:
+
+Enter your guess: 20
+
+Too low!
+
+Enter your guess: 100
+
+Too high!
+
+Enter your guess: 45
+
+Too low!
+
+Enter your guess: 80
+
+Too high!
+
+Enter your guess: 55
+
+Correct guess!
+
+You guessed in 5 attempts.
